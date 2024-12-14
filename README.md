@@ -1,4 +1,3 @@
-# Disease-prediction-using-Machine-Learning
  # Disease Predictor Using Machine Learning
 
 ## Overview
